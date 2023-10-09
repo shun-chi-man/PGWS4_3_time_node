@@ -8,14 +8,15 @@
 
 ![結果画像3](result1_3.gif)
 
-![結果画像](result1.gif)
+![result_1](https://github.com/shun-chi-man/PGWS4_3_time_node/assets/146050674/b903ef5c-77ba-4bdc-ab86-6965a0c975fd)
 
-![シェーダグラフ](node_graph1.png)
+![Quad7 SG ShaderGraph](https://github.com/shun-chi-man/PGWS4_3_time_node/assets/146050674/7a8ab273-a542-40d1-86f1-9b455d769307)
+
 
 # 自分なりに変更した点
--
--
--
+- Cylinderの回転についてX軸回転とZ軸回転のスクリプトも実装しました。
+- スクリプトによる回転とシェーダーグラフによる回転を組み合わせました。
+- X軸とZ軸の回転の速度を意図的にずらしました。
 
 # 進め方
 
